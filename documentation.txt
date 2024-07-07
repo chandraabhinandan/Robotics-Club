@@ -1,0 +1,4 @@
+CERTAIN CHANGES FOR BACKEND
+1. We can create a form component to accept users email, institute and a brief description of their project idea in the contact and joining page.The
+details can be retrieved on our backend and can be stored so that we can contact them in future.
+2. We can create a database to store the details of our team members so that we can render them on the people and ancestory page.

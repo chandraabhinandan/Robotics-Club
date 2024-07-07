@@ -1,0 +1,41 @@
+body{
+    margin-bottom: 50px;
+}
+.container{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.carousel-inner{
+    
+    background-color: grey;
+    margin-bottom: 30px;
+}
+.logos{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    color: grey;
+}
+.people{
+    text-align: center;
+}
+.table{
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.heading{
+    text-align: center;
+}
+footer{
+    display: flex;
+    justify-content: center;    
+}
+.icon{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.ancestor{
+    text-align: center;
+}
